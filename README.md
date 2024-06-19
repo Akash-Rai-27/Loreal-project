@@ -1,8 +1,17 @@
-# React + Vite
+# Project
+1. Used react-webcam for camera access
+2. Tailwind css for design
+3. Site is reponsive both mobile and laptop (not smaller screen)
+4. Three working buttons - CAPTURE , RETAKE, SAVE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##
+# Webite in Laptop
 
-Currently, two official plugins are available:
+- ![alt text](image.png)
+- ![alt text](image-2.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Website in Mobile
+![alt text](image-1.png)
+
+---
+Thank You !!
